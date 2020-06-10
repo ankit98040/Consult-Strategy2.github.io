@@ -372,6 +372,27 @@ header{
   text-align: center;
 }
 
+.Input{
+  width: 250px;
+  height: 25px;
+  border-color: darkorange;
+  border-radius: 25px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  }
+
+#container1 button{
+  height: 50px;
+  
+        }
+
+#container1 button:hover{
+  background-color: black;
+  color:white;
+  
+        }
+
+
 /************************************************************/
 /**NEWS SECTION**/
 /************************************************************/
